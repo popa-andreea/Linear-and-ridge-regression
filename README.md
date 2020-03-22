@@ -51,6 +51,7 @@ functia ridge_mae_mse():
 Exercitiul 4
 -
 functia ridge_(train_data, train_labels):
+-
 - folosim functia definita anterior pentru a afla paramentrul cu cea mai buna performanta;
 - normalizam datele de antrenare;
 - definim si antrenam modelul de regresie ridge pe datele de antrenare;
